@@ -1,0 +1,8 @@
+* Netlist created with www.circuit-diagram.org
+* LedMultiMode
+'Arduino Uno #14:0 #15:1 #5:2 #3:3 #26:4
+R1 4 5 100
+D2 6 0
+R3 1 6 1000
+'pushswitch b:5 a:3 t=Push closed=False
+R4 2 5 10000
