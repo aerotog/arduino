@@ -1,4 +1,3 @@
-# arduino
-This is a collection of small Arduino projects.
+# Just Embedded Things
 
-These were all developed and tested with the ELEGOO UNO R3 board which is a clone of the ARDUINO UNO.
+This is a collection of embedded projects using microcontrollers like Arduino and single board computers like Raspberry Pi.
